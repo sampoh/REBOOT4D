@@ -4,7 +4,8 @@ Windows/macOS両方に対応しています。
   
 ---
 例えば以下
-```ARRAY TEXT($atDEL;0)  
+```
+ARRAY TEXT($atDEL;0)  
 ARRAY TEXT($atFROM;0)  
 ARRAY TEXT($atTO;0)  
   
