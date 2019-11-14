@@ -4,14 +4,14 @@
 ---
 例えば以下  
 ---
-ARRAY TEXT($atDEL;0)
-ARRAY TEXT($atFROM;0)
-ARRAY TEXT($atTO;0)
-
-APPEND TO ARRAY($atDEL;"C:\\temp.txt")
-APPEND TO ARRAY($atFROM;"C:\\new\\sample.txt")
-APPEND TO ARRAY($atTO;"C:\\sample.txt")
-
+ARRAY TEXT($atDEL;0)  
+ARRAY TEXT($atFROM;0)  
+ARRAY TEXT($atTO;0)  
+  
+APPEND TO ARRAY($atDEL;"C:\\temp.txt")  
+APPEND TO ARRAY($atFROM;"C:\\new\\sample.txt")  
+APPEND TO ARRAY($atTO;"C:\\sample.txt")  
+  
 REBOOT (->$atDEL;->$atFROM;->$atTO)
 ---
 のように使用することで再起動に合わせて  
