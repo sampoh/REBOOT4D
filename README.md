@@ -19,4 +19,7 @@ REBOOT (->$atDEL;->$atFROM;->$atTO)
 のように使用することで再起動に合わせて  
 "C:\temp.txt" にあるファイルを削除し  
 "C:\new\sample.txt" にあるファイルを  
-"C:\sample.txt" に移動します。
+"C:\sample.txt" に移動します。  
+  
+引数は任意なので再起動のみの使用も可能です。
+詳しい仕様方法は "REBOOT" メソッドのコメントを参照ください。
