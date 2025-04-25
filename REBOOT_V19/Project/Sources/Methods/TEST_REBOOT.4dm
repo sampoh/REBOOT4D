@@ -1,0 +1,4 @@
+//%attributes = {}
+//< リブートテスト >
+
+REBOOT

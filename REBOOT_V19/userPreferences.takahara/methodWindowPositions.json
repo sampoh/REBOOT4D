@@ -1,0 +1,128 @@
+{
+	"Sources/Methods/REBOOT.4dm": {
+		"left": 481,
+		"top": 170,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN.4dm": {
+		"left": 591,
+		"top": 159,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX.4dm": {
+		"left": 286,
+		"top": 188,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX_Analyze.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX_ConvertPath.4dm": {
+		"left": 756,
+		"top": 197,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX_IsBuilt.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX_JS_Caller.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX_JS_ReLaunch.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_OSX_Reboot.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_Analyze.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_JS_Caller.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_JS_Mode.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_JS_ReLaunch.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_Reboot.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_VBS_Caller.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/PCON_WIN_VBS_ReLaunch.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/isWin.4dm": {
+		"left": 227,
+		"top": 174,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/isMac.4dm": {
+		"left": 608,
+		"top": 168,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/detectOs.4dm": {
+		"left": 433,
+		"top": 127,
+		"width": 1488,
+		"height": 895
+	},
+	"Sources/Methods/TEST_REBOOT.4dm": {
+		"left": 265,
+		"top": 124,
+		"width": 1488,
+		"height": 895
+	},
+	"Trash/Methods/(PCON_WIN_GetApps).4dm": {
+		"left": 544,
+		"top": 229,
+		"width": 1488,
+		"height": 895
+	}
+}

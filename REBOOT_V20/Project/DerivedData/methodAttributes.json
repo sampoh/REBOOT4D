@@ -1,0 +1,73 @@
+{
+	"methods": {
+		"detectOs": {
+			"timeStamp": "2025-04-25T20:18:08Z"
+		},
+		"isMac": {
+			"timeStamp": "2025-04-25T20:18:28Z"
+		},
+		"isWin": {
+			"timeStamp": "2025-04-25T20:18:43Z"
+		},
+		"PCON_OSX": {
+			"timeStamp": "2025-04-25T20:28:49Z"
+		},
+		"PCON_OSX_Analyze": {
+			"timeStamp": "2025-04-25T20:29:48Z"
+		},
+		"PCON_OSX_ConvertPath": {
+			"timeStamp": "2025-04-25T20:30:16Z"
+		},
+		"PCON_OSX_IsBuilt": {
+			"timeStamp": "2025-04-25T20:30:56Z"
+		},
+		"PCON_OSX_JS_Caller": {
+			"timeStamp": "2025-04-25T20:31:14Z"
+		},
+		"PCON_OSX_JS_ReLaunch": {
+			"timeStamp": "2025-04-25T20:31:30Z"
+		},
+		"PCON_OSX_Reboot": {
+			"timeStamp": "2025-04-25T20:32:42Z"
+		},
+		"PCON_WIN": {
+			"timeStamp": "2025-04-25T21:33:46Z"
+		},
+		"PCON_WIN_Analyze": {
+			"timeStamp": "2025-04-25T21:29:08Z"
+		},
+		"PCON_WIN_JS_Caller": {
+			"timeStamp": "2025-04-25T20:24:02Z"
+		},
+		"PCON_WIN_JS_Mode": {
+			"timeStamp": "2025-04-25T20:24:12Z"
+		},
+		"PCON_WIN_JS_ReLaunch": {
+			"timeStamp": "2025-04-25T20:24:29Z"
+		},
+		"PCON_WIN_Reboot": {
+			"timeStamp": "2025-04-25T20:25:34Z"
+		},
+		"PCON_WIN_VBS_Caller": {
+			"timeStamp": "2025-04-25T20:33:57Z"
+		},
+		"PCON_WIN_VBS_ReLaunch": {
+			"timeStamp": "2025-04-25T20:34:11Z"
+		},
+		"REBOOT": {
+			"timeStamp": "2025-04-25T20:26:17Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"TEST_REBOOT": {
+			"timeStamp": "2025-04-25T20:15:53Z"
+		},
+		"(PCON_WIN_GetApps)": {
+			"timeStamp": "2025-04-25T20:15:53Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}

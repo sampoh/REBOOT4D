@@ -1,0 +1,47 @@
+{
+	"common": {
+		"methods": [
+			"detectOs",
+			"isMac",
+			"isWin"
+		]
+	},
+	"REBOOT": {
+		"groups": [
+			"REBOOT_OSX",
+			"REBOOT_WIN"
+		],
+		"methods": [
+			"REBOOT"
+		]
+	},
+	"REBOOT_OSX": {
+		"methods": [
+			"PCON_OSX",
+			"PCON_OSX_Analyze",
+			"PCON_OSX_ConvertPath",
+			"PCON_OSX_IsBuilt",
+			"PCON_OSX_JS_Caller",
+			"PCON_OSX_JS_ReLaunch",
+			"PCON_OSX_Reboot"
+		]
+	},
+	"REBOOT_WIN": {
+		"methods": [
+			"PCON_WIN",
+			"PCON_WIN_Analyze",
+			"PCON_WIN_JS_Caller",
+			"PCON_WIN_JS_Mode",
+			"PCON_WIN_JS_ReLaunch",
+			"PCON_WIN_Reboot",
+			"PCON_WIN_VBS_Caller",
+			"PCON_WIN_VBS_ReLaunch"
+		]
+	},
+	"TEST": {
+		"methods": [
+			"TEST_REBOOT"
+		]
+	},
+	"trash": {}
+}

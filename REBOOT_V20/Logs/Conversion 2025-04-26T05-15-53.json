@@ -1,0 +1,13 @@
+{
+	"messages": [
+		{
+			"message": "Compatibility setting 'Use object notation to access object properties' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Use date type instead of ISO date format in objects' switched on.",
+			"severity": "warning"
+		}
+	],
+	"success": true
+}

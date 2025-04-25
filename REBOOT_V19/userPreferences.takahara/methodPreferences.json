@@ -1,0 +1,182 @@
+{
+	"Sources/Methods/REBOOT.4dm": {
+		"startSelection": 0,
+		"endSelection": 15,
+		"firstSelectedLine": 52,
+		"lastSelectedLine": 52,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:26:17.281Z"
+	},
+	"Sources/Methods/PCON_WIN.4dm": {
+		"startSelection": 23,
+		"endSelection": 23,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:23:37.297Z"
+	},
+	"Sources/Methods/PCON_OSX.4dm": {
+		"startSelection": 23,
+		"endSelection": 23,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:28:49.172Z"
+	},
+	"Sources/Methods/PCON_OSX_Analyze.4dm": {
+		"startSelection": 19,
+		"endSelection": 19,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:29:48.203Z"
+	},
+	"Sources/Methods/PCON_OSX_ConvertPath.4dm": {
+		"startSelection": 24,
+		"endSelection": 24,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:30:16.641Z"
+	},
+	"Sources/Methods/PCON_OSX_IsBuilt.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:30:56.860Z"
+	},
+	"Sources/Methods/PCON_OSX_JS_Caller.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:31:14.484Z"
+	},
+	"Sources/Methods/PCON_OSX_JS_ReLaunch.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:31:30.281Z"
+	},
+	"Sources/Methods/PCON_OSX_Reboot.4dm": {
+		"startSelection": 70,
+		"endSelection": 70,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:32:42.797Z"
+	},
+	"Sources/Methods/PCON_WIN_Analyze.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 59,
+		"lastSelectedLine": 59,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:20:58.407Z"
+	},
+	"Sources/Methods/PCON_WIN_JS_Caller.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:24:02.078Z"
+	},
+	"Sources/Methods/PCON_WIN_JS_Mode.4dm": {
+		"startSelection": 34,
+		"endSelection": 34,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:24:12.063Z"
+	},
+	"Sources/Methods/PCON_WIN_JS_ReLaunch.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:24:29.000Z"
+	},
+	"Sources/Methods/PCON_WIN_Reboot.4dm": {
+		"startSelection": 30,
+		"endSelection": 30,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:25:34.375Z"
+	},
+	"Sources/Methods/PCON_WIN_VBS_Caller.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:33:57.766Z"
+	},
+	"Sources/Methods/PCON_WIN_VBS_ReLaunch.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:34:11.188Z"
+	},
+	"Sources/Methods/isWin.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:18:43.078Z"
+	},
+	"Sources/Methods/isMac.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:18:28.203Z"
+	},
+	"Sources/Methods/detectOs.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:18:08.766Z"
+	},
+	"Sources/Methods/TEST_REBOOT.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-04-25T20:15:53.031Z"
+	}
+}
